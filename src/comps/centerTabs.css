@@ -1,0 +1,12 @@
+.paper{
+    background-color: rgba(29, 155, 92, 0.4) !important;
+    font: bold !important;
+    font-size: 2rem !important;
+}
+
+.tab{
+    font-weight: 500 !important;
+    color: rgb(34, 34, 34) !important;
+    font-size: 1.2rem !important;
+    text-transform: initial !important;
+}
